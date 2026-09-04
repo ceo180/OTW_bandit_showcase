@@ -14,6 +14,9 @@ A visual log of my progression through the [OverTheWire Bandit](https://overthew
 ![Level 0](images/level0.png)
 ![Level 1](images/level1.png)
 ![Level 2](images/level2.png)
+![Level 3](images/level3.png)
+![Level 4](images/level4.png)
+![Level 5](images/level5.png)
 
 </details>
 
@@ -28,6 +31,9 @@ A visual log of my progression through the [OverTheWire Bandit](https://overthew
 
 ![Level 6](images/level6.png)
 ![Level 7](images/level7.png)
+![Level 8](images/level8.png)
+![Level 9](images/level9.png)
+![Level 10](images/level10.png)
 
 </details>
 
@@ -42,5 +48,7 @@ A visual log of my progression through the [OverTheWire Bandit](https://overthew
 
 ![Level 11](images/level11.png)
 ![Level 12](images/level12.png)
+![Level 13](images/level13.png)
+![Level 2](images/level14.png)
 
 </details>
